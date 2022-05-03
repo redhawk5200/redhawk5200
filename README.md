@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redhawk5200
+- 👋 Hi, My name is Abdul Wahab Khan
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on c++ and python projects
