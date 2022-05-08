@@ -100,6 +100,12 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
+### 👉 Courses done from:
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt = "Datacamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" /></a>
+</p>
 
 <br>
 </br></br>
