@@ -106,6 +106,8 @@ Here are some ideas to get you started:
 <p align="center">
   &emsp;
     <a href="#"><img alt = "Datacamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" /></a>
+  &emsp;
+    <a href="#"><img alt = "Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 </p>
 
 <br>
