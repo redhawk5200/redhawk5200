@@ -42,6 +42,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=redhawk5200&show_icons=true&line_height=27&count_private=true&theme=algolia&include_all_commits=true" alt="Abdul Wahab's GitHub Stats" />
   </p>
 
------
-![snake gif](https://github.com/redhawk5200/redhawk5200/blob/output/github-contribution-grid-snake.gif)
+</details>
+
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/redhawk5200/redhawk5200/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
+
 
