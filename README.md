@@ -69,6 +69,7 @@ Here are some ideas to get you started:
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
+
 ### 👉 IDEs
  
 <p align="center">
