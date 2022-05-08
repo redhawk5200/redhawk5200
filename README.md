@@ -43,6 +43,4 @@ Here are some ideas to get you started:
   </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 28/03/2022
