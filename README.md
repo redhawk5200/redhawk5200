@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Abdul Wahab Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data+Scientist;GDSC+Hackathon+2022+qualifier;Student+at+FAST-NUCES;Machine+Learning+Enthusiast;Studying+AWS+Cloud+Partitioner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Data+Science+Enthusiast;GDSC+Hackathon+2022+qualifier;Student+at+FAST-NUCES;Studying+AWS+Cloud+Partitioner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
