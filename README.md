@@ -76,11 +76,9 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
   &emsp;
-    <a href="#"><img alt="EclispePapyrus"><img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Fdetail%2F136-1369038_papyrus-logo-papyrus-eclipse-logo.png&imgrefurl=https%3A%2F%2Fwww.pngkey.com%2Fdetail%2Fu2q8i1t4u2w7i1i1_papyrus-logo-papyrus-eclipse-logo%2F&tbnid=yUUHbCZIAhbrdM&vet=12ahUKEwjm49mCmdD3AhXYQvEDHbQeC1IQMygSegUIARDyAQ..i&docid=lVrF21u-Bp4MoM&w=820&h=427&q=papyrus%20logo&hl=en&ved=2ahUKEwjm49mCmdD3AhXYQvEDHbQeC1IQMygSegUIARDyAQ" width = 50px> /></a>
-  &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
