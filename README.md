@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## :sassy_man:  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 - :school: I am a `Sophomore` at the National University of Computer and Emerging Sciences (FAST-NUCES)
 - :trophy: Ranked 7th in `Google Developer Student club Hackathon 2022`  
 - :technologist: I love using Software as a solution for every `Problem`. Love collecting, analyzing and interpreting extremely large amounts of `data`.
