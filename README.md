@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 </p>
 
- ### 👉 Competitive Programming & Problem Solving
+ ### 👉 Problem Solving
  
 <p align="center">
   &emsp;
