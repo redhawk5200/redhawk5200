@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="EclispePapyrus" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eclipse.org%2Fcommunity%2Feclipse_newsletter%2F2018%2Fjuly%2Fpapyrus_uml_light.php&psig=AOvVaw18gN850MzEjjB4idGus-z0&ust=1652109337285000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDiw86Z0PcCFQAAAAAdAAAAABAJ" /></a>
+    <a href="#"><img alt="EclispePapyrus"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
 </p>
