@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 📊🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhawk5200&theme=algolia" alt="redhawk5200" />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redhawk5200&theme=dark&hide_border=true&background=170028)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=redhawk5200&show_icons=true&line_height=27&count_private=true&theme=algolia&include_all_commits=true" alt="Abdul Wahab's GitHub Stats" />
   </p>
 
