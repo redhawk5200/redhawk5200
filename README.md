@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 
 - :school: I am a `Sophomore` at the National University of Computer and Emerging Sciences (FAST-NUCES)
-- :work: Software Engineering Intern` at `Sybrid Pvt ltd`.
+- :work: `Software Engineering Intern` at `Sybrid Pvt ltd`.
 - :trophy: Ranked 7th in `Google Developer Student club Hackathon 2022`  
 - :technologist: I love using Software as a solution for every `Problem`. Love collecting, analyzing and interpreting extremely large amounts of `data`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/1j4Khc23fEXEO1ydd5LGZpDej_RLeUFMl/view?usp=sharing).
