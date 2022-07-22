@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3>About me</h3>
 <br>
 
-- :school: I am a `Sophomore` at the National University of Computer and Emerging Sciences (FAST-NUCES)
+- :school: I am a `Junior` at the National University of Computer and Emerging Sciences (FAST-NUCES)
 - 🔭 `Software Engineering Intern` at `Sybrid Pvt ltd`.
 - :trophy: Ranked 7th in `Google Developer Student club Hackathon 2022`  
 - :technologist: I love using Software as a solution for every `Problem`. Love collecting, analyzing and interpreting extremely large amounts of `data`.
