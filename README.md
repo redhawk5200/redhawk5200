@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - :school: I am a `Junior` at the National University of Computer and Emerging Sciences (FAST-NUCES)
 - 🔭 `Software Engineering Intern` at `Sybrid Pvt ltd`.
 - :trophy: Ranked 7th in `Google Developer Student club Hackathon 2022`  
-- :technologist: I love using Software as a solution for every `Problem`. Love collecting, analyzing and interpreting extremely large amounts of `data`.
+- :technologist: I love using Software as a solution for every `Problem`. Love App and Web `Development`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/1T5c4jHOHYRiGNZ39Pb5dide8x0zfaV3r/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
