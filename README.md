@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🔭 `Software Engineering Intern` at `Sybrid Pvt ltd`.
 - :trophy: Ranked 7th in `Google Developer Student club Hackathon 2022`  
 - :technologist: I love using Software as a solution for every `Problem`. Love App and Web `Development`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/1s2H3KAi7LUwqRHcymaXV6rt5_-Qxoi5F/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/1XHOqoMmfqOpwUkKfw3vdCrcr5Hi_wNGi/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 ## 📊🔥 GitHub Stats
