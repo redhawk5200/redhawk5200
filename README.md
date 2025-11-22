@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🎓 Currently pursuing **M.Sc in Artificial Intelligence Engineering** at **Universität Passau**, Germany
-- 💼 **Ex-Software Engineer** at **EdgeFirm** (switched countries for studies)
+- 💼 **Ex-Software Engineer** at **EdgeFirm**
 - 🚀 I build **AI-powered products** from Python backends and APIs to React/React Native frontends with LLM features
 - 🤖 Expert in **LLMs and Agentic AI** (RAG, vector databases, tools/functions, tracing and evaluation)
 - 🛠️ Full-stack development with **FastAPI**, **React**, **React Native**, and **TypeScript**
