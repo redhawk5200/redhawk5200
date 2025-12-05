@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="mailto:abdulwahab052001@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/redhawk5200"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- 	<a href="https://www.linkedin.com/in/abdul-wahab-khan-b20a98229/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+	<a href="https://www.linkedin.com/in/abdulwahabkhan05/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.instagram.com/mikekowlski/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
 </p>
 
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 - 🌟 Open to **part-time/Werkstudent roles** in AI-driven and full-stack product development
 - 🤝 Looking to connect with teams and founders who want to turn ideas into working, production-ready software
 
-## 📊🔥 GitHub Stats
+<!--## 📊🔥 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhawk5200&theme=algolia" alt="redhawk5200" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhawk5200&theme=algolia" alt="redhawk5200" />
   <img src="https://github-readme-stats.vercel.app/api?username=redhawk5200&show_icons=true&line_height=27&count_private=true&theme=algolia&include_all_commits=true" alt="Abdul Wahab's GitHub Stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhawk5200&layout=compact&theme=algolia"/>
-  </p>
+  </p> -->
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
